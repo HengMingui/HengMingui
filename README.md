@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @HengMingui  
+- 👀 I’m interested in software development, artificial intelligence, and open-source projects.  
+- 🌱 I’m currently learning advanced Python, machine learning, and web development frameworks like React and Django.  
+- 💞️ I’m looking to collaborate on innovative AI projects or web applications that make a positive impact.  
+- 📫 How to reach me: You can email me at hengmingui@example.com or find me on LinkedIn at linkedin.com/in/hengmingui.  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love solving Rubik's cubes and can solve one in under a minute!  
